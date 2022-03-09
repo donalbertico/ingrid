@@ -1,0 +1,9 @@
+Flask
+
+opencv-python-headless
+
+pandas
+
+matplotlib
+
+seaborn
