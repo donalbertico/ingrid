@@ -1,0 +1,8 @@
+{
+  "ingrid-container" : {
+    "image" : ":ingrid-service.ingrid-container.4",
+    "ports" : {
+      "5000" : "HTTP"
+    }
+  }
+}
